@@ -1,5 +1,5 @@
-create database dharu90;
-use dharu90;
+create database disha95;
+use disha95;
 create table BRANCH(
 branchname varchar(20),
 branchcity varchar(20),
